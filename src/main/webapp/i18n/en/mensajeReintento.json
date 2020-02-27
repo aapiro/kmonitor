@@ -1,0 +1,25 @@
+{
+  "kafkaMonitorApp": {
+    "mensajeReintento": {
+      "home": {
+        "title": "Mensaje Reintentos",
+        "createLabel": "Create a new Mensaje Reintento",
+        "createOrEditLabel": "Create or edit a Mensaje Reintento",
+        "notFound": "No Mensaje Reintentos found"
+      },
+      "created": "A new Mensaje Reintento is created with identifier {{ param }}",
+      "updated": "A Mensaje Reintento is updated with identifier {{ param }}",
+      "deleted": "A Mensaje Reintento is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Mensaje Reintento {{ id }}?"
+      },
+      "detail": {
+        "title": "Mensaje Reintento"
+      },
+      "nombreMicroservicio": "Nombre Microservicio",
+      "error": "Error",
+      "fechaHora": "Fecha Hora",
+      "mensaje": "Mensaje"
+    }
+  }
+}
